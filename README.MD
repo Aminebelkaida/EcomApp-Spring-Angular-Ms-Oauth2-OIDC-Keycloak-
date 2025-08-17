@@ -41,7 +41,7 @@ Ce projet est une activité académique basé sur une architecture microservices
 
 ### Gestion des Commandes
 ![Commandes](Captures/orders.png)
-![Details-Commandes](captures/ordersdetails.png)
+![DetailsCommandes](Captures/ordersdetails.png)
 
 ---
 
