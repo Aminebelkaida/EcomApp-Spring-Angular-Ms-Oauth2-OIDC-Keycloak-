@@ -33,7 +33,7 @@ Ce projet est une activité académique basé sur une architecture microservices
 
 ### Authentification via Keycloak
 ![Login](Captures/login.png)
-![Login Page](Captures/login1.png)
+![Login Page](Captures/login2.png)
 ![Register](Captures/register.png)
 
 ### Liste des Produits
