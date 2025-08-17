@@ -1,7 +1,7 @@
-#  Projet Microservices E-commerce (TP)
+#  Projet Microservices E-commerce 
 
 ## Description
-Ce projet est un TP académique basé sur une architecture microservices avec **Spring Boot** et **Angular**.
+Ce projet est une activité académique basé sur une architecture microservices avec **Spring Boot** et **Angular**.
 
 ### Objectifs :
 - Sécuriser le **backend** et le **frontend** avec **Spring Security, OAuth2, OIDC, JWT et Keycloak**.
@@ -33,7 +33,7 @@ Ce projet est un TP académique basé sur une architecture microservices avec **
 
 ### Authentification via Keycloak
 ![Login](Captures/login.png)
-![Login](Captures/login1.png)
+![Login Page](Captures/login1.png)
 ![Register](Captures/register.png)
 
 ### Liste des Produits
